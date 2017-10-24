@@ -22,6 +22,6 @@
 	NOTHING
 */
 if (_this) then {
-	PLAYER_BADHIVE = true;
+	PLAYER_BADHIVE = false;
 	publicVariableServer "PLAYER_BADHIVE";
 };
